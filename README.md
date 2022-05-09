@@ -1,141 +1,77 @@
-adresine gidilir. Sağ üstteki get started butonuna kaydolmak için
-tıklanır.
+<h1 align="center">Merhaba 👋, Ben Ali Emir </h1>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"></a>
+<br/>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image1.png){width="6.3in"
-height="3.9347222222222222in"}
+### Ben Kimim
+- :computer:Kahramanmaraş Sütçü İmam Üniversitesi Bilgisayar Mühendisligi 4. sınıf öğrencisiyim. 
+- :computer:KSÜ Bilgisayar ve Bilişim Topluluğu yönetim kadrosunda yer almaktayım. 
+- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **aemir74@gmail.com** adresini kullanabilirsiniz. 
 
-Daha sonra nasıl hesap oluşturacağınızı soran bir ekranla karşı karşıya
-geleceksiniz. Tercihen google(gmail) hesabınızla devam etmeniz önerilir.
-Bu rehberde gmail hesabıyla oluşturacağız.
+***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+<br>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image2.png){width="6.3in"
-height="3.9347222222222222in"}
+***:medal_military:***
 
-Çıkan ekranda google hesabınızla giriş yapmalısınız.
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/Godaman0" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Godaman0?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Godaman0?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image3.png){width="6.305554461942258in"
-height="3.9388877952755905in"}
+<h1 align="center"> 💻Ali Emir</h1>
+<p align="center">
+<a href="https://github.com/Godaman0">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Godaman0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godaman0&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
 
-Daha sonra bir kullanıcı adı oluşturmanızı isteyecek (default değeriyle
-devam edebilirsiniz).
+ <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-emir-180620198/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://instagram.com/aemir1905" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image4.png){width="6.305554461942258in"
-height="3.938888888888889in"}
 
-Aşağıdaki ekranı görürseniz başarıyla kaydolmuşsunuz demektir. Şimdi
-sizi projeye ekleyecek kişiye mail adresinizi vermeniz gerekiyor.
+</p>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image5.png){width="6.301388888888889in"
-height="3.9361100174978128in"}
+<h2 align="center">Languages & Frameworks</h2>
 
-Projeye eklendikten sonra aşağıdaki ekranı görecekseniz.
+<p align="center">
+  
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888859.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image6.png){width="6.301388888888889in"
-height="3.9361100174978128in"}
+</p>
 
-Projeyi ekranda gördükten sonra mobil cihazınızdan appcenter.ms adresine
-giriş yapın. Orada görünen plateu mobile simulator paketini yükleyin.
-Size cihazınızı accounta eklemeniz gerektiğini söyleyecek. Add Device
-diyerek profili indirin.
+<h2 align="center">⚡ Database</h2>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image7.png){width="2.0527777777777776in"
-height="3.6527777777777777in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image8.png){width="2.026388888888889in"
-height="3.6069444444444443in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image9.png){width="2.0347222222222223in"
-height="3.625in"}
+<p align="center">
+  
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
 
-Daha sonra cihazınızın ayarlarında en üstte profil indirildi yazan yere
-tıklayıp profili yükleyin.
+</p>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image10.png){width="2.1055555555555556in"
-height="3.747221128608924in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image11.png){width="2.0944444444444446in"
-height="3.7291666666666665in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image12.png){width="2.113888888888889in"
-height="3.7624989063867016in"}
+<h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
 
-Profili yükledikten sonra I'm good tuşuna basmalısınız. (Tekrar giriş
-yaptığınızda direk indirme ekranı gelir bu ekranı görmeyeceksiniz.)
+<p align="center">
+  
+<code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
+<code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
 
-Daha sonra uygulamayı yükleye basın. Uygulamayı ana ekranda
-göreceksiniz. Uygulamayı açmaya çalıştıktan sonra 3. Resimdeki gibi bir
-hata görebilirsiniz. Eğer görmez iseniz sonraki sayfaya geçiniz.
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image8.png){width="1.933332239720035in"
-height="3.4430555555555555in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image13.png){width="2.0069444444444446in"
-height="3.573611111111111in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image14.png){width="1.9972222222222222in"
-height="3.558333333333333in"}
+</p>
+<h2 align="center">👩‍🖍📐 Design</h2>
 
-Ayarlar -\> Genel -\> Vpn ve Aygıt Yönetimi ekranına gidiniz. Kurumsal
-uygulama sekmesinin altındaki TURKIYE IS BANKASI A.S'ye tıklayınız. Daha
-sonra "Güven: TURKIYE IS BANKASI A.S" butonuna tıklayıp güvene
-tıklayınız. Artık uygulamayı açabilirsiniz. Şimdi webdeki adımlara
-geçiyoruz.
+<p align="center">
+  
+<code><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/5210/premium/5210800.png?token=exp=1638834408~hmac=92c3bfcb0952ed875cabd57c1ae4806a"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbMt0PbIuYZFwggnJtEI2ROZ9IuOwWjMCZBE6DIlHcYD1Lg-mX5az3Nd7uHJHIfUyztY&usqp=CAU"></code>
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image15.png){width="1.9472211286089238in"
-height="3.4680555555555554in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image16.png){width="1.9388888888888889in"
-height="3.4527766841644794in"}
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image17.png){width="1.9388888888888889in"
-height="3.451388888888889in"}
+</p>
 
-> adresinde hazır bir qjson kullanılarak ekran açılabilir veya bir ekran
-> oluşturulur.
->
-> ![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image18.png){width="5.6in"
-> height="3.111111111111111in"}
->
-> Daha sonra labs sekmesinde MobilePreview butonuna tıklanarak bağlantı
-> aktifleştirilir ve MobilepreviewQRCode butonuna tıklanarak QRCode
-> ekranda görüntülenebilir.
 
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image19.png){width="4.918055555555555in"
-height="2.7152777777777777in"}
-
-> ![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image20.png){width="4.895833333333333in"
-> height="2.670832239720035in"}
-
-Sayfada aşağıdaki gibi bir QR kodu çıkması gerekir.
-
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image21.png){width="6.301388888888889in"
-height="3.573611111111111in"}
-
-Daha sonra cihazdan Plateau Simulator uygulamasını açın ve
-bilgisayardaki QR Kodu tarayın.
-
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image22.png){width="2.3847222222222224in"
-height="4.2416655730533686in"}
-
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image24.png){width="6.301388888888889in"
-height="3.4462139107611547in"}![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image25.png){width="6.301388888888889in"
-height="3.475531496062992in"}![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image26.png){width="0.6041666666666666in"
-height="0.13173556430446196in"}
-
-QR kodu tarandıktan sonra browserda cihazımızın bağlandığını
-görebiliriz. (Burada iPhone Simulator kaybolduğunda bağlantı kaybolmuş
-demektir, tekrar qr code'u okutmanız gerekir)
-
-Artık studioda yaptığımız herhangi bir değişiklik telefonda anlık olarak
-gözükür. Örneğin TCKN gireceğimiz yerdeki mesajı editleyelim.
-
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image23.png){width="6.302777777777778in"
-height="3.9375in"}
-
-> Cihazımızda değişiklik anlık olarak gözükür. Soldaki mavi
-> menüden(Rescan QR) farklı QR kodlarını tarayabilirsiniz.
->
-> ![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image27.png){width="2.025in"
-> height="3.6041666666666665in"}
->
-> ![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image28.png){width="1.9972222222222222in"
-> height="3.5555555555555554in"}
->
-> Mac için fn+f12, Windows için f12 tuşuna basarak geliştirici
-> araçlarını açabilirsiniz. Oradan console'dan logları anlık olarak
-> takip edebilirsiniz. İyi çalışmalar.
-
-![](vertopal_dbafa0fcf9054d25a78d7a71586eee69/media/image29.png){width="6.798610017497813in"
-height="3.326388888888889in"}
+   
