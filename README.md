@@ -1,67 +1,77 @@
-[https://appcenter.ms ](https://appcenter.ms/)adresine gidilir. Sağ üstteki get started butonuna kaydolmak için tıklanır. 
+<h1 align="center">Merhaba 👋, Ben Ali Emir </h1>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"></a>
+<br/>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.001.jpeg)
+### Ben Kimim
+- :computer:Kahramanmaraş Sütçü İmam Üniversitesi Bilgisayar Mühendisligi 4. sınıf öğrencisiyim. 
+- :computer:KSÜ Bilgisayar ve Bilişim Topluluğu yönetim kadrosunda yer almaktayım. 
+- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **aemir74@gmail.com** adresini kullanabilirsiniz. 
 
-Daha sonra nasıl hesap oluşturacağınızı soran bir ekranla karşı karşıya geleceksiniz. Tercihen google(gmail) hesabınızla devam etmeniz önerilir. Bu rehberde gmail hesabıyla oluşturacağız. 
+***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+<br>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.002.jpeg)
+***:medal_military:***
 
-Çıkan ekranda google hesabınızla giriş yapmalısınız. 
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/Godaman0" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Godaman0?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Godaman0?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.003.jpeg)
+<h1 align="center"> 💻Ali Emir</h1>
+<p align="center">
+<a href="https://github.com/Godaman0">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Godaman0&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godaman0&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
 
-Daha sonra bir kullanıcı adı oluşturmanızı isteyecek (default değeriyle devam edebilirsiniz). 
+ <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-emir-180620198/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://instagram.com/aemir1905" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.004.jpeg)Aşağıdaki ekranı görürseniz başarıyla kaydolmuşsunuz demektir. Şimdi sizi projeye ekleyecek kişiye mail adresinizi vermeniz gerekiyor. 
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.005.jpeg)
+</p>
 
-Projeye eklendikten sonra aşağıdaki ekranı görecekseniz. 
+<h2 align="center">Languages & Frameworks</h2>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.006.jpeg)Projeyi ekranda gördükten sonra mobil cihazınızdan appcenter.ms adresine giriş yapın. Orada görünen plateu mobile simulator paketini yükleyin. Size cihazınızı accounta eklemeniz gerektiğini söyleyecek. Add Device diyerek profili indirin. 
+<p align="center">
+  
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888859.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.007.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.008.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.009.jpeg)
+</p>
 
-Daha sonra cihazınızın ayarlarında en üstte profil indirildi yazan yere tıklayıp profili yükleyin. 
+<h2 align="center">⚡ Database</h2>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.010.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.011.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.012.jpeg)Profili yükledikten sonra I’m good tuşuna basmalısınız. (Tekrar giriş yaptığınızda direk indirme ekranı gelir bu ekranı görmeyeceksiniz.)  
+<p align="center">
+  
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
 
-Daha sonra uygulamayı yükleye basın. Uygulamayı ana ekranda göreceksiniz. Uygulamayı açmaya çalıştıktan sonra 3. Resimdeki gibi bir hata görebilirsiniz. Eğer görmez iseniz sonraki sayfaya geçiniz. 
+</p>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.013.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.014.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.015.jpeg)
+<h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
 
-Ayarlar -> Genel -> Vpn ve Aygıt Yönetimi ekranına gidiniz. Kurumsal uygulama sekmesinin altındaki TURKIYE IS BANKASI A.S’ye tıklayınız. Daha sonra “Güven: TURKIYE IS BANKASI A.S” butonuna tıklayıp güvene tıklayınız. Artık uygulamayı açabilirsiniz. Şimdi webdeki adımlara geçiyoruz. 
+<p align="center">
+  
+<code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
+<code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.016.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.017.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.018.jpeg)
 
-[https://studio.onplateau.com/quick/ ](https://studio.onplateau.com/quick/)adresinde hazır bir qjson kullanılarak ekran açılabilir veya bir ekran oluşturulur. 
+</p>
+<h2 align="center">👩‍🖍📐 Design</h2>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.019.jpeg)
+<p align="center">
+  
+<code><img height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/5210/premium/5210800.png?token=exp=1638834408~hmac=92c3bfcb0952ed875cabd57c1ae4806a"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbMt0PbIuYZFwggnJtEI2ROZ9IuOwWjMCZBE6DIlHcYD1Lg-mX5az3Nd7uHJHIfUyztY&usqp=CAU"></code>
 
-Daha sonra labs sekmesinde MobilePreview butonuna tıklanarak bağlantı aktifleştirilir ve MobilepreviewQRCode butonuna tıklanarak QRCode ekranda görüntülenebilir. 
+</p>
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.020.jpeg)
 
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.021.jpeg)
-
-Sayfada aşağıdaki gibi bir QR kodu çıkması gerekir. 
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.022.jpeg)
-
-Daha sonra cihazdan Plateau Simulator uygulamasını açın ve bilgisayardaki QR Kodu tarayın. 
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.023.jpeg)
-
-QR kodu tarandıktan sonra browserda cihazımızın bağlandığını görebiliriz. (Burada iPhone Simulator kaybolduğunda bağlantı kaybolmuş demektir, tekrar qr code’u okutmanız gerekir)  
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.024.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.025.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.026.png)
-
-Artık studioda yaptığımız herhangi bir değişiklik telefonda anlık olarak gözükür. Örneğin TCKN gireceğimiz yerdeki mesajı editleyelim. 
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.027.jpeg)Cihazımızda değişiklik anlık olarak gözükür. Soldaki mavi menüden(Rescan QR) farklı QR kodlarını tarayabilirsiniz. 
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.028.jpeg)![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.029.jpeg)
-
-Mac için fn+f12, Windows için f12 tuşuna basarak geliştirici araçlarını açabilirsiniz. Oradan console’dan logları anlık olarak takip edebilirsiniz. İyi çalışmalar. 
-
-![](Aspose.Words.a63954ac-0e64-4c8f-80e9-c958dc206b2b.030.jpeg)
+   
